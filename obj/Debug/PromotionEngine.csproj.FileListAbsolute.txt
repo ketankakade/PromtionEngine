@@ -1,0 +1,7 @@
+C:\Users\ketan\source\repos\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+C:\Users\ketan\source\repos\PromotionEngine\bin\Debug\PromotionEngine.exe
+C:\Users\ketan\source\repos\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Users\ketan\source\repos\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\ketan\source\repos\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\ketan\source\repos\PromotionEngine\obj\Debug\PromotionEngine.exe
+C:\Users\ketan\source\repos\PromotionEngine\obj\Debug\PromotionEngine.pdb
